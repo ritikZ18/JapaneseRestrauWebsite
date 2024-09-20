@@ -47,13 +47,22 @@ A visually appealing and interactive Japanese food website built using HTML, CSS
 
 ```
 .
-├── index.html           # Main HTML file
-├── src/
-│   ├── css/             # Stylesheets (CSS)
-│   ├── js/              # JavaScript files
-│   └── images/          # Images of dishes and website assets
-├── public/              # Public assets
-└── package.json         # Project dependencies and scripts
+.
+├── assets/               # Images and other media used in the project
+│   └── images/           # Folder for food images and other visual assets
+├── css/                  # Stylesheets for the website
+│   └── styles.css        # Main CSS file for page styling
+├── js/                   # JavaScript files for functionality
+│   └── script.js         # Main JavaScript file for interactivity
+├── node_modules/         # Node.js dependencies (generated after npm install)
+├── public/               # Public assets (icons, fonts, etc.)
+├── .gitattributes        # Git attributes file for version control
+├── README.md             # Project README file (you are here)
+├── desktop.ini           # System file (ignore)
+├── index.html            # Main HTML file for the website
+├── package-lock.json     # Automatically generated file for locking node modules versions
+├── package.json          # Project metadata and dependencies
+
 ```
 
 ## 📚 Features
