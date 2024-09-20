@@ -1,6 +1,3 @@
-Here is a README for your Japanese food website project made using JavaScript, HTML, and CSS with Vite as the build tool:
-
----
 
 # 🍣 Japanese Food Website
 
@@ -74,12 +71,3 @@ A visually appealing and interactive Japanese food website built using HTML, CSS
 - **Vite**: A fast build tool that serves as a modern alternative to older tools like Webpack.
 - **AOS (Animate On Scroll)**: For adding scroll animations to elements effortlessly.
 
-## 👨‍💻 Author
-- **Your Name** - [GitHub](https://github.com/yourusername)
-
-## 📄 License
-This project is licensed under the MIT License.
-
----
-
-This README provides an overview of the project, setup instructions, and key information about its technologies and structure.
